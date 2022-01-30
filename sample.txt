@@ -1,3 +1,4 @@
 Hello Git
 i am beta.
+hogehoge
 i am alpha.
